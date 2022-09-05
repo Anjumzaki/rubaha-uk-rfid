@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>683920699570-r70617fmkv4ncnmklg8d2sl5vbc833mh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.683920699570-r70617fmkv4ncnmklg8d2sl5vbc833mh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA4OXe7c80MIEx6GYOesP8NQ2-7_BOn2xk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>683920699570</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>me.innovent.retailapp</string>
+	<key>PROJECT_ID</key>
+	<string>inno-retail-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>inno-retail-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:683920699570:ios:b6d3e229f3bd74d15519ab</string>
+</dict>
+</plist>

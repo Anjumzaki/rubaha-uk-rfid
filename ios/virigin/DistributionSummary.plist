@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>innoventRetial.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>26</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>73B2128D1FD8B623439D9374EC1EE39CD08B12B6</string>
+				<key>dateExpires</key>
+				<string>04/03/2022</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>73B2128D1FD8B623439D9374EC1EE39CD08B12B6</string>
+						<key>dateExpires</key>
+						<string>04/03/2022</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>OpenSSL.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5639DZX5C6</string>
+						<key>name</key>
+						<string>Abdul Saqib</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.1.180</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>5639DZX5C6.me.innovent.retailapp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>5639DZX5C6</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>5639DZX5C6.me.innovent.retailapp</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>innoventRetial.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f10f87b5-c535-4ac0-b424-0a59d7beccf6</string>
+				<key>dateExpires</key>
+				<string>02/03/2023</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: me.innovent.retailapp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>5639DZX5C6</string>
+				<key>name</key>
+				<string>Abdul Saqib</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

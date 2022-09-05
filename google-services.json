@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861217473561",
+    "firebase_url": "https://thenode-54719.firebaseio.com",
+    "project_id": "thenode-54719",
+    "storage_bucket": "thenode-54719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861217473561:android:3c56f782ae71c28c355688",
+        "android_client_info": {
+          "package_name": "com.nodegrocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861217473561-a9e8g035edihbhcos7j73rpt81bjk883.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vQqJxMRqojOsPHftrt1oyJlfkSQcr2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861217473561-a9e8g035edihbhcos7j73rpt81bjk883.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
